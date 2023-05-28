@@ -1,0 +1,11 @@
+{
+  "name": "volleyball_analytics",
+  "version": "1.0.0",
+  "description": "volleyball video analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kousuke Takeuchi",
+  "license": "MIT"
+}

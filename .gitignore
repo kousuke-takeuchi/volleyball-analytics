@@ -1,0 +1,7 @@
+venv
+package-lock.json
+node_modules
+run.spec
+build
+dist
+**/*.mp4
